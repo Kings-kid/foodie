@@ -1528,7 +1528,6 @@ footer #foot .f li{
         margin-top: 127px;
         margin-left: 95px;
     }
-    
     header #header-banner #banner-left #berry{
         display: flex;
         justify-content: center;
@@ -2012,7 +2011,6 @@ footer #foot .f li{
         width: 6px;
         background-color: #F2F2F2;
         border-radius: 20px;
-       
     }
     .scroll::-webkit-scrollbar-thumb{
         background-color: #EB5757;
@@ -2021,7 +2019,6 @@ footer #foot .f li{
     .scroll::-webkit-scrollbar-thumb:hover{
         background-color: green;
     }
-    
     .scroll-content{
         display: flex;
         flex-direction: column;
